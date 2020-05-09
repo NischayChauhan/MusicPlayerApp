@@ -21,7 +21,7 @@ This app can be deployed on play store.
 * JAVA
 
 ## View on phone
-<img src="https://github.com/NischayChauhan/BarApp/blob/master/phone_1.png" width="300" height="600">
+<img src="https://github.com/NischayChauhan/MusicPlayerApp/blob/master/1.gif" width="300" height="600">
 
 ## Authors
 
